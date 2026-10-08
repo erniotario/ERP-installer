@@ -4,7 +4,13 @@ Installateurs d'**ERP**, le logiciel de gestion commerciale de **SHEMA BUSINESSE
 (Yaoundé) : caisse, stock et dépôts, achats, créances, comptabilité, personnel et paie —
 sur Windows et Android.
 
-Les versions sont dans **[Releases](../../releases)** :
+## Télécharger la dernière version (essai gratuit de 30 jours)
+
+- **Windows** : [ERP_Setup.exe](https://github.com/erniotario/ERP-installer/releases/latest/download/ERP_Setup.exe)
+- **Android** : [ERP.apk](https://github.com/erniotario/ERP-installer/releases/latest/download/ERP.apk)
+  (ouvrez le lien sur le téléphone ; Android demande d'autoriser l'installation)
+
+Toutes les versions sont dans **[Releases](../../releases)** :
 
 - `ERP_Setup.exe` — installateur Windows ;
 - `ERP-X.Y.Z.apk` — application Android ;
