@@ -45,7 +45,8 @@ les téléphones qui se synchronisent ensemble.
 ## Licence
 
 L'essai dure **30 jours**, avec toutes les fonctions. Ensuite, une licence définitive pour
-toute l'entreprise (le PC et tous ses téléphones) : **60 000 FCFA, une seule fois**. Sans
+toute l'entreprise (le PC et tous ses téléphones), payée une seule fois ; son prix est défini
+par **SHEMA BUSINESSES** (WhatsApp 6 58 19 09 70). Sans
 licence, ERP passe en lecture seule — vos données restent consultables, imprimables et
 sauvegardées. Le paiement et l'activation se font depuis **Paramètres › Licence**.
 
